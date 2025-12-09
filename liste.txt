@@ -10,4 +10,4 @@ Milch
 Cola
 Sprite
 Fanta
-Bier
+NoNameBier
