@@ -8,3 +8,4 @@ Kaffee
 Milch
 Cola
 Sprite
+Fanta
